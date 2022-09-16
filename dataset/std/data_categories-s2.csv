@@ -1,0 +1,51 @@
+test_id,test_name,attr_id,attr_name,unit,unique
+101497,CBC,104291,ESR,mm in 1st hour,"['76' '25' '52' '32' '67' '03' '09' '64' '30' '04' '39' '28' '02' '54'
+ '107' '125' '102' '140' '123' '117' 'Q.N.S' '118' '135' '230' '150' '130'
+ '148' '.']"
+5003345,Complete Urine Analysis (Urine R/E),3000003,Protein,,"['Trace' 'Nil' '++' '+' 'nan' '0' 'Not Done' '(+)' '(+++)' '+++' '(++++)'
+ '++++' '(++)' 'Tarce']"
+5003345,Complete Urine Analysis (Urine R/E),3000016,Blood,,"['nan' 'Nil' 'Not done' 'Trace' '3+' '+++' '(++)' '(+++)' '++' '+' '(+)'
+ 'Normal' 'Absent']"
+5003345,Complete Urine Analysis (Urine R/E),3000017,Appearance,,['nan' 'Clear' 'Hazy' 'Turbid']
+5003345,Complete Urine Analysis (Urine R/E),3000020,Colour,,"['L YELLOW' 'Straw' 'STRAW' 'Yellow' 'nan' 'AMBER' 'Reddish' 'Yellowish'
+ 'YELLOW' 'Deep yellow' 'Deep Straw' 'Red' 'Dark straw' 'Deep straw'
+ 'Amber' 'Pale yellow' 'Dark Brown' 'DK BROWN  06' 'Turbid' 'Deep starw'
+ 'Dark yellow' 'RED' 'Brown' 'Dark Straw' 'DK BROWN']"
+5003345,Complete Urine Analysis (Urine R/E),3000031,Uric Acid,,['nan' 'Nil' '0' '(+)' '(++)' 'Few' '(+++)' 'A few']
+5003345,Complete Urine Analysis (Urine R/E),3000037,Sugar,,"['Nil' '+++' 'nan' '++++' '0' 'Trace' 'Not Done' '++' '(++)' '(++++)'
+ '(+)' '(+++)' '+']"
+5003345,Complete Urine Analysis (Urine R/E),3000042,R B C,/LPF,['nan' 'Nil' '0']
+5003345,Complete Urine Analysis (Urine R/E),3000043,W B C,/LPF,['nan' 'Nil' '0']
+5003345,Complete Urine Analysis (Urine R/E),3000067,Bilirubin,,"['Nil' 'Not done' 'Not Done' 'nan' '0' '+' 'Normal' '(+)' '(+++)' '(++)'
+ '++' '3.00']"
+101304,Electrolytes Serum,101214,Sodium,mmol/L,"['143' '146' '155' '140' '138' '177' '130' '147' '144' '142' '139' '135'
+ '113' '118' '168' '163' '110' '169' '136.0' '128.0' '101' '135.0' '96'
+ '174' '107' '160' '120.0' '132.0' '124.0' '137.0']"
+101304,Electrolytes Serum,102050,Potassium,mmol/L,"['3.0' '3.3' '2.9' '4.1' '5.1' '2.8' '4.3' '4.4' '4.9' '3.8' '3.4' '5.2'
+ '8.1' '8.3' '38']"
+101602,Fasting Blood Sugar (FBS),101211,Fasting Blood Sugar,mmol/L,"['5.3' '6.1' '13.1' '5.8' '4.7' '6.3' '6.7' '5.5' '5.9' '9.1' 'nan' '9.5'
+ '15.9' '13.0' '18' '19.0' '16.0' '3.4' '20.5' '14' '22.6' '22.0' '27.0'
+ '23.0' '18.0' '26.0' '20.0' '28.0']"
+100824,Grouping + Cross Matching + Screening,3002195,Blood Group :,,"['""A""' 'nan' '""AB""' '""B""' '""O""' '""A\'' '""O ""' ""''B''"" ""''O''"" ""''A''""
+ ""''AB''"" '""A' 'AB']"
+100824,Grouping + Cross Matching + Screening,3002196,Rh Type :,,['Negative' 'nan' 'Positive']
+100824,Grouping + Cross Matching + Screening,3002201,Blood Group :,,"['""A""' 'nan' '""AB""' '""B""' '""O""' '""A\'' ""''B''"" ""''O''"" ""''A''"" ""''AB''""
+ 'A']"
+100824,Grouping + Cross Matching + Screening,3002202,Rh Type :,,['Negative' 'nan' 'Positive' 'Positve' 'positive' 'p']
+100824,Grouping + Cross Matching + Screening,3002206,1.  HBsAg,,['Negative' 'nan' 'Positive' 'Not done' 'Not Done']
+101305,HbA1c,102057,HbA1c,%,"['10.3' '7.1' '6.7' '7.6' '6.1' '8.2' '5.9' '6.9' '6.5' '8.3' '5.3' '8.4'
+ '5.4' '5.5' '7.0' 
+ '15.1' '17.4' '15.2' '14.2' '16.7' '15.8' '4.2' '3.8' '4.0' '16.0' '14.6'
+ '5.20' '7..3' '15.5' '3.3' '15.0' '4.4' '6.60']"
+100921,Lipid Profile Serum (R),102084,Total Cholesterol,mg/dL,"['238' '224' '152' '181' '173' '159' '677' '230' '113' '148' 'nan' '205'
+ '277' '316' '332' '270' '295' '312' '330' '73' '274' '198.0' '453' '265']"
+100921,Lipid Profile Serum (R),103729,HDL Cholesterol,mg/dL,"['36' '50.3' '38.2' '30.1' '51' '32.7' '20' '52.2' '41.5' '47' 'nan'
+ '44.7' '41' '34.5' '42' '43.1' '43.9' '31' '55.9' '31.6' '35' '29.8'
+ '82' '9' '15.4' '105' '68' '17' '102' '86' '79' '34.0' '13' '84']"
+100921,Lipid Profile Serum (R),103730,LDL Cholesterol,mg/dL,"['158' '138' '76' '103' '99' '91' '**' '134' '55' '68' 'nan' '107' '150'
+ '221' '183' '83.2' '*' '209' '214' '***' '250' '74.6' '208.4' '63.4'
+ '57.4' '190' '87.6' '217' '31.4' '225' '202' '34.6' '140.2']"
+100921,Lipid Profile Serum (R),103731,Triglycerides,mg/dL,"['218' '177' '186' '237' '131' '178' '5747' '79' '169' 'nan' '145' '191'
+ '313' '163' '155' '162' '339' '91' '147' '270' '104' '181' '422' '575'
+ '411' '552' '1175' '375' '410' '543' '468' '1860' '472' '1108' '797'
+ '372' '862']"

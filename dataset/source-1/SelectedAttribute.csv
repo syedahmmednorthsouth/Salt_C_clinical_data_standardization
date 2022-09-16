@@ -1,0 +1,22 @@
+lab_name,test_key,test_name,attribute_key,attr_name,snomad_name,snomed_ct_id,code,loinc_name,component,short_name,class_name,unit(UCUM)
+Haematology,10655,CBC,13387,ESR,,,788-0,Erythrocyte distribution width [Ratio] by Automated count,Erythrocyte distribution width,RDW RBC Auto-Rto,HEM/BC,%
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14491,Protein,,,5804-0,Protein [Mass/volume] in Urine by Test strip,Protein,Prot Ur Strip-mCnc,UA,mg/dL
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14498,Blood,,,,,,,,
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14499,Appearance,,,5767-9,Appearance of Urine,Appearance,Appearance Ur,SPEC,
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14501,Colour,,,5778-6,Color of Urine,Color,Color Ur,SPEC,
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14512,Uric Acid,,,,,,,,
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14517,Sugar,,,25428-4,Glucose [Presence] in Urine by Test strip,Glucose,Glucose Ur Ql Strip,UA,
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14521,R B C,,,33051-4,Erythrocytes [Presence] in Urine,Erythrocytes,RBC Ur Ql,UA,
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14522,W B C,,,33052-2,Leukocytes [Presence] in Urine,Leukocytes,WBC Ur Ql,UA,
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),14526,Bilirubin,,,5770-3,Bilirubin.total [Presence] in Urine by Test strip,Bilirubin,Bilirub Ur Ql Strip,UA,
+Biochemistry,10937,Electrolytes Serum,14366,Sodium,,,2951-2,Sodium [Moles/volume] in Serum or Plasma,Sodium,Sodium SerPl-sCnc,CHEM,mmol/L
+Biochemistry,10937,Electrolytes Serum,14367,Potassium,,,2823-3,Potassium [Moles/volume] in Serum or Plasma,Potassium,Potassium SerPl-sCnc,CHEM,mmol/L
+Biochemistry,10693,FBG - Fasting blood glucose,13498,Blood glucose level,,,76629-5,Fasting glucose [Moles/volume] in Blood,Glucose^post CFst,Glucose p fast Bld-sCnc,CHEM,mmol/L
+Biochemistry,10816,HbA1c,13952,HbA1c,,,86910-7,Hemoglobin A1c/Hemoglobin.total goal Blood,Hemoglobin A1c/Hemoglobin.total goal,Hgb A1c goal MFr Bld,CLIN,%
+Biochemistry,10626,Lipid Profile Serum (R),13070,LDL Cholesterol,,,57698-3,Lipid panel with direct LDL - Serum or Plasma,Lipid panel with direct LDL,Lipid pnl with direct LDL SerPl,PANEL.CHEM,mg/dL
+,10626,Lipid Profile Serum (R),13069,HDL Cholesterol,,,,,,,,
+,10626,Lipid Profile Serum (R),13071,Triglycerides,,,,,,,,
+,10626,Lipid Profile Serum (R),13068,Total Cholesterol,,,,,,,,
+,10057,Grouping + Cross Matching + Screening,10431,Blood Group :,,,,,,,,
+,10057,Grouping + Cross Matching + Screening,10432,Rh Type :,,,,,,,,
+,10057,Grouping + Cross Matching + Screening,10440,1.  HBsAg,,,,,,,,

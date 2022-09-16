@@ -1,0 +1,26 @@
+lab_name,test_key,test_name,specimen,total_records
+Haematology,10655,CBC,BLOOD,627690
+Clinical Pathology,10994,Complete Urine Analysis (Urine R/E),URINE,121310
+Microbiology,10252,Urine for C/S,URINE,110052
+Microbiology,10217,Blood for C/S,BLOOD,77688
+Clinical Pathology,10616,Urine R/M/E,URINE,29287
+Biochemistry,10937,Electrolytes Serum,BLOOD.,24024
+BLOOD TRANSFUSION,10057,Grouping + Cross Matching + Screening,BLOOD,16965
+Clinical Pathology,10617,Stool R/E,STOOL,12854
+Microbiology,10157,Stool for C/S,STOOL,9328
+Biochemistry,10899,Serum creatinine level,BLOOD,7647
+Biochemistry,11079,"Renal Function Test (Urea, Creatinine, Electrolytes)",BLOOD,6186
+Biochemistry,10191,Lipid Profile Serum (F),BLOOD.,5248
+Serology,10550,Prothrombin Time (PT),BLOOD,5065
+Biochemistry,10453,RBG - Random blood glucose,BLOOD,4648
+Haematology,10664,Blood Film (PBF),WHOLE BLOOD,4545
+Biochemistry,10921,ALT(SGPT) Serum,BLOOD,4205
+Microbiology,10577,Sputum for C/S,SPUTUM.,3666
+Biochemistry,10626,Lipid Profile Serum (R),BLOOD,3644
+Microbiology,10735,Tracheal Aspirate for C/S,TRACHEAL ASPIRATE,3619
+Biochemistry,10914,Blood Gas Analysis Arterial (ABG),BLOOD.,3594
+Immunology,10531,CRP (C-Reactive Protein),BLOOD,3233
+BLOOD TRANSFUSION,10793,Grouping+ICT+Cross Matching + Screening,BLOOD,3097
+Immunology,10309,TSH,BLOOD,2959
+Biochemistry,10693,FBG - Fasting blood glucose,BLOOD,2938
+Biochemistry,10816,HbA1c,WHOLE BLOOD,2466
